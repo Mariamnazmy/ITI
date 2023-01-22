@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        ul#menu li {
+  display:inline;
+}
+    </style>
+</head>
+<body>
+    <h2>video</h2>
+    <div id="videoContainer">
+    <video
+      src="./video/frozen.mp4"
+      width="500"
+      id="vid"
+     
+      poster="./image/frozen.jpg"
+    ></video>
+    <table id="video-controls" class="controls">
+        <tr>
+            <td class="progress"><progress id="progress" value="0" min="0" style="width: 500px;">
+                <span id="progress-bar"></span>
+              </progress>
+             <div class="time" style="display: inline-flex;"></div> 
+            </td>
+        </tr>
+        <tr>
+            <td> <ul id="menu">
+                <li><button id="playpause" type="button">Play</button></li>
+             <li><button id="stopp" type="button">stop</button></li>
+             <li> <button id="stop" type="button">&lt; &lt;</button></li>
+             <li> <button id="back" type="button">&lt;</button></li>
+             <li> <button id="skip" type="button">&gt;</button></li>
+             <li> <button id="end" type="button">&gt; &gt;</button></li>
+             <li> volume:  <input type="range" min="0" max="" value="0" step="0.1" class="slider" id="volume">
+                <span class="volumebar"></span></li>
+             <li><button id="mute" type="button">Mute/Unmute</button></li>
+             <li><button id="fs" type="button">Fullscreen</button></li>
+            
+           
+           
+            
+            
+        </ul>
+    </td>
+        </tr>
+       <tr>
+        <td >
+          speed:  <input type="range" min="0" max="" value="0" step="0.1" class="slider" id="progress2">
+          <span class="speedbar"></span>
+            
+        </td>
+       </tr>
+    </table> 
+</div>
+
+
+    <script>
+        var video = document.getElementById("vid");
+        const play= document.getElementById("playpause");
+        const stop=document.getElementById("stop");
+        const videoContainer = document.getElementById('videoContainer');
+        const stopp=document.getElementById("stopp");
+        const videoControls = document.getElementById('video-controls');
+        const progress = document.getElementById('progress');
+        const progressBar = document.getElementById('progress-bar');
+        const end=document.getElementById("end");
+        const full=document.getElementById("fs");
+        const back=document.getElementById("back");
+        const skip =document.getElementById("skip");
+        const speed=document.getElementById("progress2");
+        const speedline=document.querySelector(".speedbar");
+        const volumee = document.getElementById("volume");
+        const volumebar=document.querySelector(".volumebar");  
+        const timer = document.querySelector(".time");
+ 
+          volume.append(volumebar);
+        speed.append(speedline);
+        
+        play.addEventListener('click', (e) => {
+       
+           video.play();
+        
+         });
+         stopp.addEventListener('click',(e)=>{
+            video.pause();
+
+         });
+         back.addEventListener('click',(e)=>{
+           video.currentTime-=5;
+           progress.value=video.currentTime;
+         });
+         skip.addEventListener('click',(e)=>{
+            video.currentTime+=5;
+            progress.value=video.currentTime;
+         })
+         stop.addEventListener('click',(e)=>{
+            video.pause();
+            video.currentTime = 0;
+            progress.value = 0;
+         });
+         end.addEventListener('click',(e)=>{
+            video.pause();
+            video.currentTime=video.duration;
+            progress.value=video.currentTime;
+         });
+         mute.addEventListener('click', (e) => {
+          video.muted = !video.muted;
+           });
+
+           video.addEventListener('timeupdate', () => {
+            if (!progress.getAttribute('max')) progress.setAttribute('max', video.duration);
+             progress.value = video.currentTime;
+        
+              });
+
+          speed.addEventListener('change',function(){
+            video.defaultPlaybackRate=0.5;
+            if(video.playbackRate>1){
+                video.playbackRate-=1;
+            }
+            else{
+                video.playbackRate+=1;
+            }
+          });
+     
+          volumee.addEventListener("change",function(){
+            video.volume=this.value/100;
+          });
+  
+              full.addEventListener('click',(e)=>{
+               // handleFullscreen();
+              video.requestFullscreen();
+
+              });
+
+              video.addEventListener("timeupdate",function(){
+            timer.innerHTML=Math.round(video.duration-video.currentTime);
+                
+              });
+
+                 
+
+
+      //vid.play();
+      //vid.pause();
+    //   console.log(video);
+    //   //console.log(vid.playbackRate); //0.5-16
+    //   // console.log(vid.duration)
+    //   video.addEventListener("timeupdate", function () {
+    //     console.log(vid.currentTime);
+    //   });
+    //   console.log((video.volume = 0)); //0-1
+    </script>
+</body>
+</html>

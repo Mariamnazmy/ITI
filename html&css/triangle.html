@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <canvas id="myCanvas" width="500" height="500"></canvas>
+  
+<h1>according to pythagoras theorem</h1>
+    <math>
+
+        <mi>c</mi>
+        <mo>= </mo>
+
+        <msqrt>
+            <msup>
+
+                <mi>a</mi>
+                <mn>2</mn>
+            </msup>
+           <mo>+</mo>
+           <msup>
+
+            <mi>b</mi>
+            <mn>2</mn>
+        </msup>
+        </msqrt>
+       
+      </math>
+      
+    <script>
+        var canvasElement = document.querySelector("#myCanvas");
+var context = canvasElement.getContext("2d");
+
+// the triangle
+context.beginPath();
+context.moveTo(100, 100);
+context.lineTo(100, 300);
+context.lineTo(300, 300);
+context.closePath();
+
+context.font = "45px serif";
+context.fillText("a", 40, 220);
+context.font = "45px serif";
+context.fillText("b", 180, 370);
+context.font = "45px serif";
+context.fillText("c", 210, 160);
+
+// the fill color
+context.fillStyle = "#FF0000";
+context.fill();
+
+    </script>
+    
+</body>
+</html>

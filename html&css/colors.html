@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h1 id="text">Change the 3 Color Ranges above and observe color change</h1>
+
+        <h2 style="display: inline;">Red</h2>
+        <input type="range" value="0"  step="1" min="0" max="255" name="red" onchange="changeColor(this.value, 0)"/> <br />
+
+        <h2 style="display: inline;">Green</h2>
+        <input type="range" value="0" step="1" min="0" max="255" name="green" onchange="changeColor(this.value, 1)"/> <br />
+
+        <h2 style="display: inline;">Blue</h2>
+        <input type="range" value="0" step="1" min="0" max="255" name="blue" onchange="changeColor(this.value, 2)"/> <br />
+
+        
+    </div>
+    <script>
+        let textColor = document.querySelector("#text");
+        var red=0;
+        var green=0;
+        var blue=0;
+        function changeColor(val, color)
+        {
+            switch (color) 
+                {
+                    case 0: red = val; break;
+                    case 1: green = val; break;
+                    case 2: blue = val; break;
+                }
+    
+            textColor.style.color = 'rgb('+red+','+green+','+blue+')';
+        }
+    </script>
+</body>
+</html>
