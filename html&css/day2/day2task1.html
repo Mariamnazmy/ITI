@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Geolocation Api</h2>
+    <button onclick="getLoc()">get location</button>
+    <hr />
+    <script>
+        function getLoc(){
+            navigator.geolocation.getCurrentPosition(showloc,showerror);
+
+        }
+        function showloc(e){ // e is an object from geolocationpostion  
+            console.log(e);
+            var lat = e.coords.latitude; //get the current postion 
+            var long = e.coords.longitude;
+          location.assign("https://maps.google.com/maps?q=" + lat + ",+" + long);// attach our location with google maps and assgin to able to comeback 
+        }
+        function showerror(x){
+        //console.log(x);
+        switch (x.code) {
+          case 0:
+            console.log(x.message);
+            break;
+          case 1:
+            console.log(x.message);
+            break;
+          case 2:
+            console.log(x.message);
+            break;
+          case 3:
+            console.log(x.message);
+            break;
+        }
+        }
+    </script>
+</body>
+</html>
