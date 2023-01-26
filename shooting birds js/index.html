@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="div1">
+     <h1>Select Game Level</h1>
+     <select name="level" id="lev">
+        <option value="" disabled selected hidden>choose level..</option>
+        <option value="one">1</option>
+       
+      </select>
+      <form action="/game.html">
+      <h1>Enter Your Name</h1>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required> <br> <br>
+      <input type="submit" value="GO">
+    </form>
+    </div>
+    <div class="div2">
+        <h1>Game Brid Shooting Points</h1>
+        <div class="container">
+        <div class="image">
+        <img src="images/bird3.gif" alt="bird3" > </div>
+        <div class="text"> <h1>+5 Points</h1></div>
+        
+            
+        </div>
+        <div class="container2">
+            <div class="image">
+                <img src="images/bird2.gif" alt="bird2" > </div>
+                <div class="text2"> <h1>+10 Points</h1></div>
+        </div>
+        <div class="container3">
+            <div class="image">
+                <img src="images/bird1.gif" alt="bird1" > </div>
+                <div class="text3"> <h1>-10 Points</h1></div>
+
+        </div>
+    </div>
+<script >let input=document.querySelector("input[name=name]").value;
+    localStorage.setItem("name", input);</script>
+</body>
+</html>
