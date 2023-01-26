@@ -70,7 +70,7 @@ startbtn.onclick=function(){
         music.stop();
        },5000); 
         setTimeout(()=>{ 
-        if(sum>=100){ endtext.innerHTML=`your score is ${sum}. you won`;
+        if(sum>=50){ endtext.innerHTML=`your score is ${sum}. you won`;
         welcome.classList.add("invisible") ;
         endimg.src="/images/win.png";
         enddiv.classList.add("visible");
