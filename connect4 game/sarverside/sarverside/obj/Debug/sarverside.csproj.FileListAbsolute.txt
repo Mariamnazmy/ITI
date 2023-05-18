@@ -1,0 +1,99 @@
+C:\Users\asura\source\repos\sarverside\sarverside\bin\Debug\sarverside.exe.config
+C:\Users\asura\source\repos\sarverside\sarverside\bin\Debug\sarverside.exe
+C:\Users\asura\source\repos\sarverside\sarverside\bin\Debug\sarverside.pdb
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.exe
+C:\Users\asura\source\repos\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\our game\sarverside\sarverside\bin\Debug\sarverside.exe.config
+E:\our game\sarverside\sarverside\bin\Debug\sarverside.exe
+E:\our game\sarverside\sarverside\bin\Debug\sarverside.pdb
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.exe
+E:\our game\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\ITI\C#\Project\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+E:\ITI\C#\Project\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+E:\ITI\C#\Project\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+E:\ITI\C#\Project\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+D:\ITI CONTENT\Visual C#\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+C:\Users\Mega Store\Documents\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\connect 4 my team\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+E:\connect 4 my team\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+E:\connect 4 my team\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+E:\connect 4 my team\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+E:\ITI\C#\Project\Final project\Last\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+D:\New folder\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+D:\New folder\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+D:\New folder\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+D:\New folder\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\bin\Debug\sarverside.exe.config
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\bin\Debug\sarverside.exe
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\bin\Debug\sarverside.pdb
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.Form1.resources
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.Properties.Resources.resources
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.GenerateResource.cache
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.exe
+E:\ITI\C#\Project\C# Project group3\Final project\sarverside\sarverside\obj\Debug\sarverside.pdb
