@@ -1,0 +1,208 @@
+D:\Documents\C#\cfour\cfour\client\bin\Debug\client.exe.config
+D:\Documents\C#\cfour\cfour\client\bin\Debug\client.exe
+D:\Documents\C#\cfour\cfour\client\bin\Debug\client.pdb
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.Form2.resources
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.exe
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.pdb
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.Form3.resources
+D:\Documents\C#\cfour\cfour\client\obj\Debug\client.Form4.resources
+D:\cfour\client\bin\Debug\client.exe.config
+D:\cfour\client\bin\Debug\client.exe
+D:\cfour\client\bin\Debug\client.pdb
+D:\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\cfour\client\obj\Debug\client.Form2.resources
+D:\cfour\client\obj\Debug\client.Form3.resources
+D:\cfour\client\obj\Debug\client.Form4.resources
+D:\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\cfour\client\obj\Debug\client.exe
+D:\cfour\client\obj\Debug\client.pdb
+E:\ITI\C#\Project\our project\last\cfour\client\bin\Debug\client.exe.config
+E:\ITI\C#\Project\our project\last\cfour\client\bin\Debug\client.exe
+E:\ITI\C#\Project\our project\last\cfour\client\bin\Debug\client.pdb
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.Form2.resources
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.Form3.resources
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.Form4.resources
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.exe
+E:\ITI\C#\Project\our project\last\cfour\client\obj\Debug\client.pdb
+E:\our game\cfour\client\bin\Debug\client.exe.config
+E:\our game\cfour\client\bin\Debug\client.exe
+E:\our game\cfour\client\bin\Debug\client.pdb
+E:\our game\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\our game\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\our game\cfour\client\obj\Debug\client.Form2.resources
+E:\our game\cfour\client\obj\Debug\client.Form3.resources
+E:\our game\cfour\client\obj\Debug\client.Form4.resources
+E:\our game\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\our game\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\our game\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\our game\cfour\client\obj\Debug\client.exe
+E:\our game\cfour\client\obj\Debug\client.pdb
+E:\our game\cfour\client\obj\Debug\client.myGame.resources
+E:\ITI\C#\Project\Final project\cfour\client\bin\Debug\client.exe.config
+E:\ITI\C#\Project\Final project\cfour\client\bin\Debug\client.exe
+E:\ITI\C#\Project\Final project\cfour\client\bin\Debug\client.pdb
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.Form2.resources
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.Form3.resources
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.Form4.resources
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.myGame.resources
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.exe
+E:\ITI\C#\Project\Final project\cfour\client\obj\Debug\client.pdb
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\bin\Debug\client.exe.config
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\bin\Debug\client.exe
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\bin\Debug\client.pdb
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.Form2.resources
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.Form3.resources
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.myGame.resources
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.exe
+D:\ITI CONTENT\Visual C#\Final project\cfour\client\obj\Debug\client.pdb
+C:\Users\Mega Store\Documents\Final project\cfour\client\bin\Debug\client.exe.config
+C:\Users\Mega Store\Documents\Final project\cfour\client\bin\Debug\client.exe
+C:\Users\Mega Store\Documents\Final project\cfour\client\bin\Debug\client.pdb
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.Form2.resources
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.Form3.resources
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.myGame.resources
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.exe
+C:\Users\Mega Store\Documents\Final project\cfour\client\obj\Debug\client.pdb
+E:\connect 4 my team\Final project\cfour\client\bin\Debug\client.exe.config
+E:\connect 4 my team\Final project\cfour\client\bin\Debug\client.exe
+E:\connect 4 my team\Final project\cfour\client\bin\Debug\client.pdb
+E:\connect 4 my team\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+E:\connect 4 my team\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.Form2.resources
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.Form3.resources
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.myGame.resources
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.exe
+E:\connect 4 my team\Final project\cfour\client\obj\Debug\client.pdb
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\bin\Debug\client.exe.config
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\bin\Debug\client.exe
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\bin\Debug\client.pdb
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.Form2.resources
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.Form3.resources
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.myGame.resources
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.exe
+E:\ITI\C#\Project\Final project\Last\Final project\cfour\client\obj\Debug\client.pdb
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\bin\Debug\client.exe.config
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\bin\Debug\client.exe
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\bin\Debug\client.pdb
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.Form2.resources
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.Form3.resources
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.myGame.resources
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.exe
+D:\ITI CONTENT\Visual C#\Last Last\Final project\cfour\client\obj\Debug\client.pdb
+D:\New folder\Final project\cfour\client\bin\Debug\client.exe.config
+D:\New folder\Final project\cfour\client\bin\Debug\client.exe
+D:\New folder\Final project\cfour\client\bin\Debug\client.pdb
+D:\New folder\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+D:\New folder\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+D:\New folder\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\New folder\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+D:\New folder\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+D:\New folder\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+D:\New folder\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+D:\New folder\Final project\cfour\client\obj\Debug\client.Form2.resources
+D:\New folder\Final project\cfour\client\obj\Debug\client.Form3.resources
+D:\New folder\Final project\cfour\client\obj\Debug\client.myGame.resources
+D:\New folder\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\New folder\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\New folder\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\New folder\Final project\cfour\client\obj\Debug\client.exe
+D:\New folder\Final project\cfour\client\obj\Debug\client.pdb
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\bin\Debug\client.exe.config
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\bin\Debug\client.exe
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\bin\Debug\client.pdb
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.Form2.resources
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.Form3.resources
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.myGame.resources
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.exe
+E:\ITI\C#\Project\C# Project group3\Final project\cfour\client\obj\Debug\client.pdb
+D:\t\Final project\cfour\client\bin\Debug\client.exe.config
+D:\t\Final project\cfour\client\bin\Debug\client.exe
+D:\t\Final project\cfour\client\bin\Debug\client.pdb
+D:\t\Final project\cfour\client\bin\Debug\Interop.WMPLib.dll
+D:\t\Final project\cfour\client\bin\Debug\AxInterop.WMPLib.dll
+D:\t\Final project\cfour\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\t\Final project\cfour\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+D:\t\Final project\cfour\client\obj\Debug\Interop.WMPLib.dll
+D:\t\Final project\cfour\client\obj\Debug\AxInterop.WMPLib.dll
+D:\t\Final project\cfour\client\obj\Debug\client.csproj.ResolveComReference.cache
+D:\t\Final project\cfour\client\obj\Debug\client.Boardsize.resources
+D:\t\Final project\cfour\client\obj\Debug\client.Form2.resources
+D:\t\Final project\cfour\client\obj\Debug\client.Form3.resources
+D:\t\Final project\cfour\client\obj\Debug\client.myGame.resources
+D:\t\Final project\cfour\client\obj\Debug\client.Properties.Resources.resources
+D:\t\Final project\cfour\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\t\Final project\cfour\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\t\Final project\cfour\client\obj\Debug\client.exe
+D:\t\Final project\cfour\client\obj\Debug\client.pdb

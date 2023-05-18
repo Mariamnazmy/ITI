@@ -1,0 +1,11 @@
+D:\Documents\C#\cfour\cfour\cfour\bin\Debug\cfour.exe.config
+D:\Documents\C#\cfour\cfour\cfour\bin\Debug\cfour.exe
+D:\Documents\C#\cfour\cfour\cfour\bin\Debug\cfour.pdb
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.csproj.AssemblyReference.cache
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.Form1.resources
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.Properties.Resources.resources
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.csproj.GenerateResource.cache
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.csproj.CoreCompileInputs.cache
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.exe
+D:\Documents\C#\cfour\cfour\cfour\obj\Debug\cfour.pdb
